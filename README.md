@@ -1,2 +1,3 @@
-# GameOfLife
-CodeRetreat setup for initial Game of Life
+# Game Of Life CodeRetreat
+
+Initial set-up for Game of Life CodeRetreat.

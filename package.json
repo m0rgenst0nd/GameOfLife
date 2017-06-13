@@ -1,0 +1,20 @@
+{
+  "name": "game-of-life",
+  "version": "0.0.1",
+  "description": "CodeRetreat implementation of Game of Life",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch --verbose",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "terminal-kit": "^1.10.2"
+  }
+}
